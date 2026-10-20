@@ -1,0 +1,6 @@
+{
+  "name": "SENAISTOCK - Sistema de Gestão de Estoque e Almoxarifado SENAI-SP",
+  "description": "Sistema completo de controle de estoque, inventário e almoxarifado técnico com estrutura hierárquica em 4 níveis, rastreabilidade de entradas e saídas, endereçamento e persistência de dados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
